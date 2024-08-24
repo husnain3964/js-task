@@ -62,3 +62,21 @@ console.log(`add one more in  remaining ${remaining}`);
 
 
 console.log(`  there are ${remaining} plates availbale `);
+
+// task-2 has completed
+
+//task 3 started
+//array
+
+let fruits;
+fruits=["apple" ,"mango" ," banana" , "graps" , "pineapple" ,"potato"]
+console.log("here is the fruits list" ); 
+console.log(fruits); 
+
+console.log(`first fruits ${fruits[0]}`);
+console.log(`third fruits ${fruits[2]}`);
+console.log(`fifth fruits ${fruits[4]}`);
+
+fruits[5] = "peach"
+console.log(`updated fruits list `); 
+console.log(fruits); 
